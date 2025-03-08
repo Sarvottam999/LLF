@@ -1,0 +1,76 @@
+#.gradle
+#/local.properties
+#/.idea/caches
+#/.idea/libraries
+#/.idea/modules.xml
+#/.idea/workspace.xml
+#/.idea/navEditor.xml
+#/.idea/assetWizardSettings.xml
+#/build
+#/captures
+#.externalNativeBuild
+#.cxx
+#local.properties
+#wrapper/dists/
+#caches
+#.tmp/
+#daemon/
+#gradle/wrapper/
+#native/
+#
+#
+## Ignore IDE and OS-specific files
+#.idea/
+#*.iml
+#
+## Ignore build outputs
+#/build/
+#.gradle/
+#*/build/
+#*.jar
+#*.war
+#*.ear
+#
+## Ignore temporary files
+#/tmp/
+#*.log
+#
+## Ignore system files
+#.DS_Store
+#Thumbs.db
+#
+## Ignore secrets
+#google-services.json
+
+# Ignore local configuration files
+/local.properties
+
+# Ignore IDE-specific files
+.idea/
+*.iml
+
+# Ignore Gradle-related files
+.gradle/
+gradle/wrapper/
+wrapper/dists/
+daemon/
+caches/
+.tmp/
+native/
+
+# Ignore build outputs
+/build/
+*/build/
+.externalNativeBuild/
+.cxx/
+
+# Ignore temp files
+captures/
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore secrets
+google-services.json
